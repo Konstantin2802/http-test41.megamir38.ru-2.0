@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /bitrix/
+Disallow: /ajax/
+Disallow: /backups/
+Disallow: /cgi-bin/
+Disallow: /filter_search/
+Disallow: /include/
+Disallow: /search/
+Disallow: /upload/
+Disallow: /webstat/
+Sitemap: http://test41.megamir38.ru/sitemap.xml
+Host: www.test41.megamir38.ru

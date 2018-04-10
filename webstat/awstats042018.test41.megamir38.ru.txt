@@ -1,0 +1,468 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201804 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.test41.megamir38.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1999                
+POS_TIME 2685                
+POS_VISITOR 7221                
+POS_DAY 8385                
+POS_DOMAIN 3458                
+POS_LOGIN 3693                
+POS_ROBOT 3848                
+POS_WORMS 4098                
+POS_EMAILSENDER 4229                
+POS_EMAILRECEIVER 4372                
+POS_SESSION 8616                
+POS_SIDER 8801                
+POS_FILETYPES 4507                
+POS_DOWNLOADS 4821                
+POS_OS 4888                
+POS_BROWSER 4985                
+POS_SCREENSIZE 5224                
+POS_UNKNOWNREFERER 5298                
+POS_UNKNOWNREFERERBROWSER 5460                
+POS_ORIGIN 5542                
+POS_SEREFERRALS 5683                
+POS_PAGEREFS 5838                
+POS_SEARCHWORDS 6047                
+POS_KEYWORDS 6199                
+POS_MISC 2347                
+POS_ERRORS 6258                
+POS_CLUSTER 3549                
+POS_SIDER_404 6407                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180410074628 2418 782941 16088881691259
+FirstTime 20180405075738
+LastTime 20180410074627
+LastUpdate 20180410080302 229 0 229 0 0
+TotalVisits 22                  
+TotalUnique 16                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 31                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 247 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 43 149 4593471 2 16 208686
+4 107 170 438199613 15 86 952386
+5 89 252 6698412 9 54 703042
+6 420 2405 79448702 52 242 8407024
+7 465 960 24590158 58 191 1948514
+8 505 1005 22494126 66 206 2651730
+9 794 1710 31635417 122 243 3330075
+10 457 1322 30916178 15 127 2324104
+11 339 744 21084767 45 194 3388690
+12 609 2103 50860081 83 287 3703435
+13 282 647 8209563 23 58 1806009
+14 177 373 6050637 3 20 148984
+15 56 259 5451691 2 14 241652
+16 373 768 13626362 33 129 2106746
+17 158 407 8060931 27 70 1669092
+18 48 48 807547 2 6 136313
+19 1 1 15 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 1 25
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 4923 13323 752727671
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 72 476 20180408092928 0
+ia_archiver 1 25 20180409225323 1
+bot[\s_+:,\.\;\/\\-] 1 18861 20180409184009 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 3 139832 0 0
+css 2119 11347872 0 0
+png 1243 92746789 0 0
+woff 4 5072 0 0
+woff2 113 7284432 0 0
+php 3712 503226825 0 0
+html 1056 28423325 0 0
+js 3148 21466261 0 0
+jpg 1496 84375911 0 0
+jpeg 40 2312584 0 0
+Unknown 35 620289 0 0
+gif 354 778479 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 1 0 25
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 5
+linuxandroid 96
+winxp 113
+winnt 6939
+Unknown 15
+win7 6160
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 9
+chrome63.0.3239.84 1614
+msie8.0 52
+chrome37.0.2062.117 1
+mozilla 128
+chrome64.0.3282.186 52
+chrome49.0.2623.112 112
+chrome58.0.3029.110 434
+chrome65.0.3325.109 95
+chrome65.0.3325.181 10835
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_vkShare;__http://vk.com/dev/Share) 20180408103141
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 161 253
+From1 0 0
+From2 3 3
+From3 3 3
+From4 4756 13064
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://away.vk.com/away.php 2 2
+http://info.ertelecom.ru 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 22 64064
+302 408 3716370
+206 16 1700430
+301 11 3645
+404 1165 26871770
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 14
+/logo.png 1 -
+/callback 22 http://test41.megamir38.ru/bitrix/admin/fileman_admin.php
+/robots.txt 1 -
+/bitrix 1 -
+/result_list.php 3 http://test41.megamir38.ru/zakazat-zvonok.php
+/upload/iblock/c62/c623e3b7c4aa0ff6f107978e1e53c533.png 559 http://test41.megamir38.ru/
+/galereya/bitrix 1 -
+/contacts/bitrix 1 -
+/restore.php. 6 -
+/restore.php 1 -
+/galereya 1 -
+/upload/iblock/ddc/ddc3f569718890517c5a483a22657d40.png 561 http://test41.megamir38.ru/
+/admin 1 -
+/o-kompanii/user/ 6 http://test41.megamir38.ru/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 31
+90.188.253.190 2390 5780 596834273 20180410074627 20180410035809 /
+84.244.12.4 1128 3251 61667877 20180408103223
+176.215.231.49 905 2007 47099787 20180407143753
+176.212.17.226 374 1245 24371515 20180408165005
+164.215.80.105 57 260 5277297 20180405163346
+31.47.189.218 49 434 7344397 20180409124544
+37.49.170.236 7 112 3942381 20180407114952
+164.215.81.49 3 17 160219 20180406130011
+5.167.28.251 2 2 77861 20180409161724
+176.14.34.104 2 51 358165 20180409062308
+195.211.23.223 0 1 8544 
+195.211.23.215 1 1 18857 20180408103140
+195.211.23.222 0 1 491223 
+195.211.23.224 0 1 146668 
+195.211.23.211 0 1 48246 
+195.211.23.212 0 1 62404 
+195.211.23.210 0 1 95815 
+195.211.23.208 0 1 324925 
+195.211.23.207 0 1 24824 
+195.211.23.220 0 1 9459 
+37.144.44.145 1 1 12527 20180409183906
+66.102.9.132 1 38 1449128 20180407090613
+195.211.23.206 0 1 5847 
+195.211.23.216 0 1 3222 
+208.88.224.217 1 1 18861 20180409184010
+195.211.23.219 0 1 78594 
+66.102.9.129 1 36 1486450 20180407090620
+37.204.103.82 1 52 348235 20180409123639
+195.211.23.221 0 1 8061 
+66.102.9.159 0 21 928076 
+195.211.23.209 0 1 23933 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20180405 1162 1958 42525058 2
+20180406 846 1872 52797051 2
+20180407 1286 3111 71547403 7
+20180408 1131 3614 70748433 4
+20180409 56 541 8160046 6
+20180410 442 2227 506949680 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 7
+15mn-30mn 1
+2mn-5mn 1
+0s-30s 10
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 155
+/ 585 20693812 13 7
+/bitrix/tools/autosave.php 568 17030 0 0
+/bitrix/admin/user_options.php 396 8712 0 0
+/bitrix/admin/fileman_admin.php 247 10124299 0 0
+/bitrix/admin/site_checker.php 226 327803 0 0
+/zakazat-zvonok.php 182 2917851 1 0
+/bitrix/admin/template_edit.php 177 11150626 0 0
+/bitrix/admin/get_menu.php 154 159608 0 0
+/o-kompanii/sotrudniki-kompanii.php 150 3292151 0 1
+/bitrix/admin/public_file_edit.php 138 2431402 0 0
+/bitrix/ 23 1909 0 0
+/catalog/ 59 1172328 1 0
+/bitrix/admin/iblock_type_edit.php 3 89419 0 0
+/gruppa_kompani/ 8 124444 0 0
+/bitrix/admin/message_admin.php 46 1450738 0 0
+/specpredlozheniya/skidki-na-kompleksnye-zakazy/ 4 116228 0 0
+/bitrix/admin/public_undo.php 4 0 0 0
+/bitrix/admin/fileman_common_js.php 3 235776 0 0
+/catalog/krovelnye-materialy/volnistyy-bitumnyy-list/ 2 22953 0 0
+/o-kompanii/preimushchestva/ 5 64156 0 0
+/bitrix/admin/posting_admin.php 1 30807 0 0
+/bitrix/admin/iblock_templates.ajax.php 43 26050 0 0
+/bitrix/templates/aspro-stroy/vendor/flexslider/fonts/flexslider-icon.eot 1 2082 0 0
+/bitrix/admin/get_search.php 12 6804 0 0
+/specpredlozheniya/sezonnoe-khranenie/ 1 12158 0 0
+/catalog/krovelnye-materialy/gibkaya_cherepitsa/katepal/ 2 34632 0 0
+/bitrix/admin/aspro.stroy_options.php 15 453551 0 0
+/bitrix/admin/fileman_newfolder.php 1 32242 0 0
+/catalog/izdeliya-iz-tonkolistovogo-metalla/ 4 41896 0 0
+/info/news/ 2 23978 0 0
+/bitrix/admin/type_edit.php 9 260152 0 0
+/o-kompanii/ 46 880954 0 0
+/ajax/form.php 23 105872 0 0
+/o-kompanii/popova-lyudmila-grigorevna/ 5 80985 0 0
+/specpredlozheniya/individualnye-usloviya-dlya-spetsialistov/ 1 12041 0 0
+/bitrix/admin/favorite_act.php 2 1139 0 0
+/bitrix/admin/message_theme_edit.php 2 60254 0 0
+/bitrix/admin/fileman_menu_edit.php 29 1066466 0 0
+/uslugi/ 13 206057 0 0
+/bitrix/admin/public_folder_edit.php 2 11751 0 0
+/bitrix/admin/public_file_edit_src.php 25 181664 0 0
+/bitrix/admin/dump_list.php 5 209184 0 0
+/bitrix/admin/template_copy.php 10 23659 0 0
+/bitrix/admin/seo_sitemap.php 1 28734 0 0
+/bitrix/admin/fileman_html_editor_action.php 6 14037 0 0
+/galereya/ 55 1019332 0 1
+/bitrix/admin/message_edit.php 36 1801466 0 1
+/bitrix/admin/fileman_medialib_admin.php 5 166091 0 0
+/uslugi/dostavka/ 2 21405 0 0
+/garantii-i-vozvrat/pravila-vozvrata-tovara/ 2 21394 0 0
+/garantii-i-vozvrat/garantii/ 2 25570 0 0
+/bitrix/admin/user_admin.php 23 679132 0 0
+/o-kompanii/o-kompanii/user 35 620289 0 0
+/specpredlozheniya/vyezdnoy-menedzher/ 2 22690 0 0
+/bitrix/admin/form_result_edit.php 2 57044 0 0
+/bitrix/admin/search_reindex.php 1 29511 0 0
+/info/faq/ 1 15358 0 0
+/bitrix/admin/subscr_import.php 1 27967 0 0
+/bitrix/admin/module_admin.php 9 270825 0 0
+/bitrix/admin/template_create_preview.php 61 6405 0 0
+/catalog/mansardnye-okna-i-cherdachnye-lestnitsy/ 1 12213 0 0
+/bitrix/admin/form_list.php 26 793935 0 0
+/o-kompanii/o-kompanii/user/ 2 45282 0 0
+/bitrix/admin/iblock_element_edit.php 90 2940847 0 0
+/bitrix/admin/iblock_edit_property.php 8 64204 0 0
+/services/stroitelnaya-kompaniya/ 4 107214 0 0
+/catalog/fasadnye-materialy/ 1 13074 0 0
+/o-kompanii/180/ 15 199333 0 0
+/catalog/fasadnye-materialy/fasadnaya-panel-vandshtayn/tuf/ 1 12496 1 1
+/info/ 1 12540 0 0
+/restore.php 15 999190 1 0
+/bitrix/admin/template_admin.php 60 1673281 0 2
+/bitrix/admin/public_file_new.php 13 100305 0 0
+/bitrix/admin/file_dialog.php 3 4747 0 0
+/info/news/vtoraya-novost/ 1 11299 0 0
+/bitrix/admin/public_file_property.php 5 27362 0 0
+/o-kompanii/ivanov-ivan-ivanovich/ 10 190178 0 1
+/bitrix/admin/ 57 1020943 0 0
+/bitrix/tools/public_session.php 52 156 1 2
+/catalog/zabory-i-ograzhdeniya/ 1 12204 0 0
+/bitrix/admin/form_field_list.php 4 96917 0 0
+/bitrix/admin/form_edit.php 31 1698530 0 0
+/bitrix/admin/public_access_edit.php 18 60412 0 0
+/bitrix/admin/message_theme_admin.php 2 56867 0 0
+/bitrix/tools/access_dialog.php 8 6591 0 0
+/o-kompanii/kirilov-sergey-olegovich/ 8 164532 0 0
+/bitrix/admin/get_start_menu.php 13 90063 0 0
+/catalog/soputstvuyushchie-tovary/ 2 22095 0 0
+/uslugi/professionalnye-konsultatsii/ 2 21753 0 0
+/o-kompanii/petrov-viktor-aleksandrovich/ 11 134816 1 0
+/catalog/krovelnye-materialy/mednaya-krovlya/mednaya-krovlya-tecu/ 1 13132 0 0
+/catalog/krovelnye-materialy/mednaya-krovlya/ 1 10957 0 0
+/bitrix/admin/iblock_data_export.php 1 28322 0 0
+/bitrix/admin/user_edit.php 13 457345 0 0
+/bitrix/admin/type_admin.php 9 206455 0 0
+/bitrix/admin/fileman_file_edit.php 25 782716 0 0
+/bitrix/templates/aspro-stroy/vendor/flexslider/fonts/flexslider-icon.woff 4 5072 0 0
+/o-kompanii/183/ 5 80817 0 0
+/catalog/komplektuyushchie-dlya-krovli-i-fasada/ 2 22123 0 0
+/bitrix/tools/upload.php 22 20788 0 0
+/catalog/krovelnye-materialy/gibkaya_cherepitsa/ 2 29256 0 0
+/uslugi/raschet-materialov/ 3 33529 0 0
+/bitrix/admin/index.php 25 235466 0 0
+/bitrix/admin/fileman_file_view.php 27 919055 0 0
+/bitrix/admin/rubric_admin.php 1 29630 0 0
+/info/more/ 1 12417 0 0
+/specpredlozheniya/ 19 292281 0 0
+/bitrix/admin/iblock_admin.php 28 862042 0 0
+/price/ 2 24917 0 0
+/bitrix/admin/task_admin.php 1 32841 0 0
+/o-kompanii/181/ 10 211165 0 0
+/bitrix/admin/public_menu_edit.php 34 244292 0 0
+/bitrix/admin/form_result_list.php 12 246344 0 0
+/o-kompanii/vakansii/ 11 168501 0 0
+/catalog/utepliteli-osp-plenki/ 2 22103 0 0
+/bitrix/templates/aspro-stroy/css/fonts/font-awesome/fonts/fontawesome-webfont.woff2 113 7284432 1 2
+/bitrix/gadgets/aspro/stroy/ajax.php 35 5320 0 0
+/bitrix/admin/site_admin.php 47 1355858 0 0
+/bitrix/admin/group_edit.php 3 95310 0 0
+/bitrix/admin/event_log.php 1 30359 0 0
+/bitrix/admin/iblock_section_edit.php 1 65646 0 0
+/garantii-i-vozvrat/ 10 125424 0 0
+/bitrix/admin/site_edit.php 37 1216555 0 0
+/o-kompanii/182/ 4 77960 0 0
+/bitrix/admin/iblock_list_admin.php 16 579128 0 0
+/catalog/vodostochnye-sistemy-i-vodootvod/ 5 54128 0 0
+/bitrix/admin/culture_admin.php 1 30116 0 0
+/bitrix/admin/dump.php 3 33996 0 0
+/info/articles/ 1 12379 0 0
+/bitrix/admin/fileman_component_params.php 89 515483 0 0
+/bitrix/admin/aspro.stroy_mc.php 8 115420 0 0
+/bitrix/admin/group_admin.php 5 155239 0 0
+/bitrix/admin/seo_robots.php 1 29850 0 0
+/catalog/fasadnye-materialy/fibrotsementnaya-panel/fibrotsementnaya-panel-kmew-pod-shtukaturku/ 1 12527 1 1
+/bitrix/admin/iblock_edit.php 25 1756246 0 0
+/bitrix/admin/fileman_js.php 3 30306 0 0
+/bitrix/admin/settings.php 104 4174160 0 1
+/bitrix/admin/fileman_file_download.php 2 435471403 0 0
+/contacts/ 21 436091 1 0
+/bitrix/admin/highloadblock_index.php 1 29784 0 0
+/bitrix/admin/user_import.php 1 28719 0 0
+/bitrix/admin/fileman_html_edit.php 91 6586144 0 0
+/bitrix/gadgets/bitrix/rssreader/getdata.php 35 11636 0 0
+/company/partners/ 1 13542 0 0
+/bitrix/admin/culture_edit.php 1 29654 0 0
+/bitrix/templates/aspro-stroy/css/fonts/font-awesome/fonts/fontawesome-webfont.eot 2 137750 0 1
+/bitrix/admin/iblock_type_admin.php 5 151277 0 0
+/bitrix/admin/admin_notify.php 4 88 0 0
+/catalog/krovelnye-materialy/ 9 125627 0 0
+/catalog/krovelnye-materialy/gibkaya_cherepitsa/katepal/foxy/ 1 15332 0 0
+/bitrix/admin/fileman_file_upload.php 1 31481 0 0
+/bitrix/admin/subscr_admin.php 1 30695 0 0
+/bitrix/admin/component_props.php 25 173051 0 0
+/info/stock/ 3 34865 0 0
+/bitrix/admin/perfmon_comp_list.php 2 58976 0 0
+END_SIDER
